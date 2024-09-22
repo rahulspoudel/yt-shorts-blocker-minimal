@@ -9,3 +9,13 @@
 
 - To be able to customize youtube by hiding/removing other different sections on page load
 - To be able to provide feedback how further we can optimize for the distractions due to short contents
+
+## How to use:
+- Go to supported chromium based browser - Chrome, Edge or Brave
+- Go to extensions settings `chrome://extensions/` or `edge://extensions/` or `brave://extensions/`
+- Enable Developer mode
+- Click on "Load unpacked" button
+- Select the folder where you have downloaded this repository code
+- You should see the extension loaded in the extensions list
+- Open YouTube and you should see the shorts section removed
+  - Both from the landing page and the video page
