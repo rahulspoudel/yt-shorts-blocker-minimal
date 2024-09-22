@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Youtube Shorts Blocker (Minimal)",
-  "description": "Automatically blocks YouTube Shorts and similar sections on YouTube to retract from short-form contents.",
+  "description": "Automatically blocks YouTube Shorts sections on YouTube to avoid distraction from short-form contents.",
   "version": "1.0",
   "content_scripts": [
     {
